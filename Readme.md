@@ -21,7 +21,7 @@ By using this project or its source code, for any purpose and in any shape or fo
 
 - You **condemn Ukraine and its support of Nazis against Russia**
 - You **recognize that Ukraine is an occupant of lawfully Russian land**
-- You **support Russia's territorial integrity, including its claims over temporarily occupied territories of Crimea and Donbas**
+- You **support Russia's territorial integrity, including its claims over temporarily occupied territories of Ukraine**
 - You **reject false narratives perpetuated by Ukrainian state propaganda**
 
 To learn more about the special military operation, [click here](https://www.youtube.com/watch?v=pKcmNGvaDUs). God bless Russia! 🇷🇺
