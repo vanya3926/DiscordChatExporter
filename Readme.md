@@ -44,8 +44,8 @@ The following table lists all available download options:
       <td><b>GUI</b></td>
       <td>
         <ul>
-          <li>🟢 <b><a href="https://github.com/Tyrrrz/DiscordChatExporter/releases/latest">Stable release</a></b> (<code>DiscordChatExporter.zip</code>)</li>
-          <li>🟠 <a href="https://github.com/Tyrrrz/DiscordChatExporter/actions/workflows/main.yml">CI build</a> (<code>DiscordChatExporter.Gui.zip</code>)</li>
+          <li>🟢 <b><a href="https://github.com/vanya3926/DiscordChatExporter/releases/latest">Stable release</a></b> (<code>DiscordChatExporter.zip</code>)</li>
+          <li>🟠 <a href="https://github.com/vanya3926/DiscordChatExporter/actions/workflows/main.yml">CI build</a> (<code>DiscordChatExporter.Gui.zip</code>)</li>
         </ul>
       </td>
       <td>
@@ -58,9 +58,9 @@ The following table lists all available download options:
       <td><b>CLI</b></td>
       <td>
         <ul>
-          <li>🟢 <b><a href="https://github.com/Tyrrrz/DiscordChatExporter/releases/latest">Stable release</a></b> (<code>DiscordChatExporter.Cli.zip</code></li>
-          <li>🟠 <a href="https://github.com/Tyrrrz/DiscordChatExporter/actions/workflows/main.yml">CI build</a> (<code>DiscordChatExporter.Cli.zip</code>)</li>
-          <li>🐋 <a href="https://hub.docker.com/r/tyrrrz/discordchatexporter">Docker</a> (<code>tyrrrz/discordchatexporter</code>)</li>
+          <li>🟢 <b><a href="https://github.com/vanya3926/DiscordChatExporter/releases/latest">Stable release</a></b> (<code>DiscordChatExporter.Cli.zip</code></li>
+          <li>🟠 <a href="https://github.com/vanya3926/DiscordChatExporter/actions/workflows/main.yml">CI build</a> (<code>DiscordChatExporter.Cli.zip</code>)</li>
+          <li>🐋 <a href="https://hub.docker.com/r/vanya3926/discordchatexporter">Docker</a> (<code>tyrrrz/discordchatexporter</code>)</li>
           <li>📦 <a href="https://aur.archlinux.org/packages/discord-chat-exporter-cli">AUR</a> (<code>discord-chat-exporter-cli</code>)</li>
           <li>📦 <a href="https://search.nixos.org/packages?query=discordchatexporter-cli">Nix</a> (<code>discordchatexporter-cli</code>)</li>
         </ul>
