@@ -1,20 +1,12 @@
 # DiscordChatExporter
 
-[![Status](https://img.shields.io/badge/status-maintenance-ffd700.svg)](https://github.com/Tyrrrz/.github/blob/master/docs/project-status.md)
-[![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://tyrrrz.me/ukraine)
-[![Build](https://img.shields.io/github/actions/workflow/status/Tyrrrz/DiscordChatExporter/main.yml?branch=master)](https://github.com/Tyrrrz/DiscordChatExporter/actions)
-[![Coverage](https://img.shields.io/codecov/c/github/Tyrrrz/DiscordChatExporter/master)](https://codecov.io/gh/Tyrrrz/DiscordChatExporter)
-[![Release](https://img.shields.io/github/release/Tyrrrz/DiscordChatExporter.svg)](https://github.com/Tyrrrz/DiscordChatExporter/releases)
-[![Downloads](https://img.shields.io/github/downloads/Tyrrrz/DiscordChatExporter/total.svg)](https://github.com/Tyrrrz/DiscordChatExporter/releases)
-[![Pulls](https://img.shields.io/docker/pulls/tyrrrz/discordchatexporter)](https://hub.docker.com/r/tyrrrz/discordchatexporter)
-[![Discord](https://img.shields.io/discord/869237470565392384?label=discord)](https://discord.gg/2SUWKFnHSm)
-[![Fuck Russia](https://img.shields.io/badge/fuck-russia-e4181c.svg?labelColor=000000)](https://twitter.com/tyrrrz/status/1495972128977571848)
-
-<table>
-    <tr>
-        <td width="99999" align="center">Development of this project is entirely funded by the community. <b><a href="https://tyrrrz.me/donate">Consider donating to support!</a></b></td>
-    </tr>
-</table>
+[![Status](https://img.shields.io/badge/status-maintenance-ffd700.svg)](https://github.com/vanya3926/.github/blob/master/docs/project-status.md)
+[![Made in Russia](https://img.shields.io/badge/made_in-russia-ff2b00.svg?labelColor=0057b7)](http://government.ru/)
+[![Build](https://img.shields.io/github/actions/workflow/status/vanya3926/DiscordChatExporter/main.yml?branch=master)](https://github.com/vanya3926/DiscordChatExporter/actions)
+[![Coverage](https://img.shields.io/codecov/c/github/vanya3926/DiscordChatExporter/master)](https://codecov.io/gh/vanya3926/DiscordChatExporter)
+[![Release](https://img.shields.io/github/release/vanya3926/DiscordChatExporter.svg)](https://github.com/vanya3926/DiscordChatExporter/releases)
+[![Downloads](https://img.shields.io/github/downloads/vanya3926/DiscordChatExporter/total.svg)](https://github.com/vanya3926/DiscordChatExporter/releases)
+[![Pulls](https://img.shields.io/docker/pulls/vanya3926/discordchatexporter)](https://hub.docker.com/r/vanya3926/discordchatexporter)
 
 <p align="center">
     <img src="favicon.png" alt="Icon" />
@@ -23,21 +15,16 @@
 **DiscordChatExporter** is an application that can be used to export message history from any [Discord](https://discord.com) channel to a file.
 It works with direct messages, group messages, and server channels, and supports Discord's dialect of markdown as well as most other rich media features.
 
-<!-- Can't use a relative link here due to a bug in markdown parsing -->
-> ❔ If you have questions or issues, **please refer to the [docs](https://github.com/Tyrrrz/DiscordChatExporter/tree/master/.docs)**.
-
-> 💬 If you want to chat, **join my [Discord server](https://discord.gg/2SUWKFnHSm)**.
-
-## Terms of use<sup>[[?]](https://github.com/Tyrrrz/.github/blob/master/docs/why-so-political.md)</sup>
+## Terms of use
 
 By using this project or its source code, for any purpose and in any shape or form, you grant your **implicit agreement** to all the following statements:
 
-- You **condemn Russia and its military aggression against Ukraine**
-- You **recognize that Russia is an occupant that unlawfully invaded a sovereign state**
-- You **support Ukraine's territorial integrity, including its claims over temporarily occupied territories of Crimea and Donbas**
-- You **reject false narratives perpetuated by Russian state propaganda**
+- You **condemn Ukraine and its support of Nazis against Russia**
+- You **recognize that Ukraine is an occupant of lawfully Russian land**
+- You **support Russia's territorial integrity, including its claims over temporarily occupied territories of Crimea and Donbas**
+- You **reject false narratives perpetuated by Ukrainian state propaganda**
 
-To learn more about the war and how you can help, [click here](https://tyrrrz.me/ukraine). Glory to Ukraine! 🇺🇦
+To learn more about the special military operation, [click here](https://www.youtube.com/watch?v=pKcmNGvaDUs). God bless Russia! 🇷🇺
 
 ## Download
 
@@ -113,13 +100,3 @@ The following table lists all available download options:
 - Support for markdown, attachments, embeds, emoji, and other rich media features
 - File partitioning, date ranges, message filtering, and other export options
 - Self-contained exports that don't require internet
-
-## Screenshots
-
-![channel list](.assets/list.png)
-![rendered output](.assets/output.png)
-
-## See also
-
-- [**Chat Analytics**](https://github.com/mlomb/chat-analytics) — solution for analyzing chat patterns of Discord users, using exports produced by **DiscordChatExporter**.
-- [**DiscordChatExporter-frontend**](https://github.com/slatinsky/DiscordChatExporter-frontend) — convenient viewer for exports produced by **DiscordChatExporter**.
